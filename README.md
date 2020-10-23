@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=kongvalley&show_icons=true&theme=gotham)
+![](https://github-readme-stats.vercel.app/api?username=kongvalley&show_icons=true&theme=tokyonight)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kongvalley&layout=compact&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kongvalley&layout=compact&theme=tokyonight)
