@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=KongValley)](https://github.com/KongValley)
+[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=&show_icons=true&theme=radical)](https://github.com/KongValley)
