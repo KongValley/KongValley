@@ -4,7 +4,7 @@
 
 </div>
 
-## :terminal: 关于我
+## :computer: 关于我
 
 ```bash
 ➜  ~ whoami
@@ -35,9 +35,9 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=kongvalley&show_icons=true&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kongvalley&layout=compact&theme=tokyonight)
-![](https://github-readme-streak-stats.herokuapp.com/?user=KongValley&theme=tokyonight)
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=kongvalley&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kongvalley&layout=compact&theme=tokyonight)
+![](https://streak-stats.demolab.com?user=KongValley&theme=tokyonight)
 
 </div>
 
