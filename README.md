@@ -6,16 +6,13 @@
 
 ## :computer: 关于我
 
-```bash
-➜  ~ whoami
-大鹏 · 宁波, 浙江
-➜  ~ cat about.md
-- 🛠️ 喜欢造点小东西:本地知识库 LocalKB、音乐播放器、输入法
-- 🌱 日常写 TypeScript / Vue,偶尔调调 C++
-- 📖 顺手折腾博客和静态站
-➜  ~ git log --since=2017
-9 年 · 34 个公开仓库 · 仍在 commit
-```
+| | |
+| :-- | :-- |
+| 🧑💻 `whoami` | **大鹏** · 宁波,浙江 |
+| 🛠️ `build` | 本地知识库 LocalKB · 音乐播放器 · 输入法 |
+| 🌱 `stack` | TypeScript / Vue,偶尔调调 C++ |
+| 📖 `blog` | 折腾博客和静态站 |
+| 📦 `repos` | 34 个公开仓库 · 9 年 GitHub 龄 |
 
 ## :hammer_and_wrench: 技术栈
 
