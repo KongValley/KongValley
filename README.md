@@ -35,8 +35,8 @@
 
 <div align="center">
 
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=kongvalley&show_icons=true&theme=tokyonight)
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kongvalley&layout=compact&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KongValley&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KongValley&theme=tokyonight)
 ![](https://streak-stats.demolab.com?user=KongValley&theme=tokyonight)
 
 </div>
