@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="430" viewBox="0 0 800 430">
+  <style>
+    text { font-family: 'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',sans-serif; }
+    .mono { font-family: 'Cascadia Code',Consolas,'Courier New',monospace; }
+    .cursor { animation: blink 1.1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+
+  <rect x="1" y="1" width="798" height="428" rx="14" fill="#1a1b27" stroke="#3b4261" stroke-width="2"/>
+
+  <circle cx="30" cy="27" r="6" fill="#f7768e"/>
+  <circle cx="52" cy="27" r="6" fill="#e0af68"/>
+  <circle cx="74" cy="27" r="6" fill="#9ece6a"/>
+  <text x="400" y="32" text-anchor="middle" font-size="14" fill="#565f89" class="mono">dapeng@github: ~/about</text>
+  <line x1="2" y1="48" x2="798" y2="48" stroke="#3b4261"/>
+
+  <g font-size="17">
+    <text x="36" y="100" class="mono" fill="#9ece6a">$</text>
+    <text x="52" y="100" class="mono" fill="#7aa2f7">whoami</text>
+    <text x="250" y="100" fill="#565f89">→</text>
+    <text x="290" y="100" fill="#c0caf5">大鹏 · 宁波, 浙江</text>
+
+    <text x="36" y="156" class="mono" fill="#9ece6a">$</text>
+    <text x="52" y="156" class="mono" fill="#7aa2f7">cat build.md</text>
+    <text x="250" y="156" fill="#565f89">→</text>
+    <text x="290" y="156" fill="#c0caf5">本地知识库 LocalKB · 音乐播放器 · 输入法</text>
+
+    <text x="36" y="212" class="mono" fill="#9ece6a">$</text>
+    <text x="52" y="212" class="mono" fill="#7aa2f7">stack --list</text>
+    <text x="250" y="212" fill="#565f89">→</text>
+    <text x="290" y="212" fill="#c0caf5">TypeScript / Vue / C++</text>
+
+    <text x="36" y="268" class="mono" fill="#9ece6a">$</text>
+    <text x="52" y="268" class="mono" fill="#7aa2f7">uptime</text>
+    <text x="250" y="268" fill="#565f89">→</text>
+    <text x="290" y="268" fill="#c0caf5">9 年 GitHub 龄 · 34 个公开仓库</text>
+
+    <text x="36" y="324" class="mono" fill="#9ece6a">$</text>
+    <text x="52" y="324" class="mono" fill="#7aa2f7">cat blog.md</text>
+    <text x="250" y="324" fill="#565f89">→</text>
+    <text x="290" y="324" fill="#c0caf5">折腾博客和静态站</text>
+
+    <text x="36" y="386" class="mono" font-size="15" fill="#565f89"># still committing</text>
+  </g>
+
+  <rect class="cursor" x="205" y="371" width="9" height="17" fill="#9ece6a"/>
+</svg>
