@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="assets/about.svg" alt="关于我:大鹏 · 宁波;造本地知识库 LocalKB、音乐播放器、输入法;TypeScript / Vue / C++;34 个公开仓库,9 年 GitHub 龄;折腾博客和静态站" width="800" />
+<img src="assets/about.svg" alt="关于我:大鹏 · 宁波;造本地知识库 LocalKB、音乐播放器、输入法;TypeScript / Vue / C++;33 个公开仓库,9 年 GitHub 龄;折腾博客和静态站" width="800" />
 
 </div>
 
