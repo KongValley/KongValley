@@ -41,6 +41,8 @@
 <div align="center">
 
 [<img src="https://tokscale.ai/api/embed/KongValley/svg?theme=dark&template=blueprint&tokens=compact&cost=compact" alt="AI 用量统计 - Tokscale" width="640" />](https://tokscale.ai/u/KongValley)
+<br/>
+[<img src="https://tokscale.ai/api/embed/KongValley/svg?theme=dark&template=graph&tokens=compact&cost=compact" alt="逐日 token 用量热力图 - Tokscale" width="640" />](https://tokscale.ai/u/KongValley)
 
 </div>
 
