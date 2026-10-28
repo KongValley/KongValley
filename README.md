@@ -36,6 +36,14 @@
 
 </div>
 
+## :zap: AI 用量
+
+<div align="center">
+
+[<img src="https://tokscale.ai/api/embed/KongValley/svg?theme=dark&template=blueprint&tokens=compact&cost=compact" alt="AI 用量统计 - Tokscale" width="640" />](https://tokscale.ai/u/KongValley)
+
+</div>
+
 ## :snake: 贪吃蛇
 
 <div align="center">
@@ -44,4 +52,4 @@
 
 </div>
 
-<!-- ponytail: 全部图床均为本会话核验或现有 README 已证明可达的 host;不加分计数器/活动图(未要求) -->
+<!-- ponytail: 全部图床均为本会话核验或现有 README 已证明可达的 host;tokscale 走官方 embed SVG(max-age=0,camo 每次回源,数据自动更新) -->
